@@ -53,8 +53,7 @@ These results describe patterns in the analyzed dataset and do not establish tha
 
 ## Dashboard
 
-The Tableau dashboard presents key indicators and visualizations of the oncology research landscape.
-
+![Oncology Research Dashboard](Oncology_research_landscape.png)
 *Dashboard link and screenshots to be added.*
 
 ## Repository Structure
