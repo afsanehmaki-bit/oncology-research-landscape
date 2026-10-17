@@ -53,7 +53,7 @@ These results describe patterns in the analyzed dataset and do not establish tha
 
 ## Dashboard
 
-![Oncology Research Dashboard](Oncology_research_landscape.png)
+![Oncology Research Dashboard](Oncology%20research%20landscape.png)
 *Dashboard link and screenshots to be added.*
 
 ## Repository Structure
