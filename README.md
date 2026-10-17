@@ -52,6 +52,7 @@ These results describe patterns in the analyzed dataset and do not establish tha
 - OpenAlex
 
 ## Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/_17920600965810/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ![Oncology Research Dashboard](Oncology%20research%20landscape.png)
 *Dashboard link and screenshots to be added.*
